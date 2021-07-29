@@ -1,0 +1,24 @@
+{
+  "name": "watermarks-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B7atis/Watermarks-app.git"
+  },
+  "author": "B7atis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B7atis/Watermarks-app/issues"
+  },
+  "homepage": "https://github.com/B7atis/Watermarks-app#readme",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
